@@ -1,6 +1,83 @@
 {
-  "latest": "3.5.33",
+  "latest": "3.5.34",
   "versions": [
+    {
+      "version": "3.5.34",
+      "minAppVersion": "3.5.0",
+      "buildTime": "2026-03-22T15:32:25.656Z",
+      "chunks": {
+        "index": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-linux/releases/download/v3.5.34/index.jsc",
+          "sha256": "69bcc5ea02e707d630dfaa5b820fa88b38902b7888d521a1eba963c1174b640a",
+          "size": 7450544
+        },
+        "worker-1": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-linux/releases/download/v3.5.34/worker-1.jsc",
+          "sha256": "3c695683c5e82469f191eff14fdda3fe812e5d354ce75864eeaaabe1f0e47edf",
+          "size": 2559552
+        },
+        "worker-10": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-linux/releases/download/v3.5.34/worker-10.jsc",
+          "sha256": "c299c07c5efc1ea8a449c1ceaea8d1b798aec92369f1583e0f4bdbff7b20fe97",
+          "size": 5390344
+        },
+        "worker-11": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-linux/releases/download/v3.5.34/worker-11.jsc",
+          "sha256": "a3872b9c26b85c60a84a88d1329bb434e59b3967d627532957aa9a67df88a409",
+          "size": 1327864
+        },
+        "worker-12": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-linux/releases/download/v3.5.34/worker-12.jsc",
+          "sha256": "4b2451e227adf8c7ef514992fbe9748914b8262b98c82e0847763374510e0bbc",
+          "size": 1038520
+        },
+        "worker-13": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-linux/releases/download/v3.5.34/worker-13.jsc",
+          "sha256": "8697e1c466ec6c77edcd4fb2f6b68e161380130859613487d452a4dcdb3e1429",
+          "size": 5047560
+        },
+        "worker-2": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-linux/releases/download/v3.5.34/worker-2.jsc",
+          "sha256": "b5ac7908ff652b5c80270bd86321348a71708da1a6b922b3fea4bac9e39daf49",
+          "size": 2741528
+        },
+        "worker-3": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-linux/releases/download/v3.5.34/worker-3.jsc",
+          "sha256": "b5bbd21bf100d29e955106ff86d613c3c21c27754bb60946dde5143b9b5eb03d",
+          "size": 4979408
+        },
+        "worker-4": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-linux/releases/download/v3.5.34/worker-4.jsc",
+          "sha256": "129e3aac2a50ebac28bbb39d7e5ede6098a6e2a5e200b9363903ded6f2873d51",
+          "size": 661312
+        },
+        "worker-5": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-linux/releases/download/v3.5.34/worker-5.jsc",
+          "sha256": "8d4c80ec59f3174ed6ea457423444b1724317433859b25fb915e348fed119139",
+          "size": 923592
+        },
+        "worker-6": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-linux/releases/download/v3.5.34/worker-6.jsc",
+          "sha256": "004f4175678446a32c4773d9aa054fd840addf80a9651cfdde56c16db211ef7e",
+          "size": 17406992
+        },
+        "worker-7": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-linux/releases/download/v3.5.34/worker-7.jsc",
+          "sha256": "38450f8e2cf359ff36838c34c66aef73044f981036809e51c3e254af3e94190e",
+          "size": 609240
+        },
+        "worker-8": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-linux/releases/download/v3.5.34/worker-8.jsc",
+          "sha256": "4ca9d0b1fbc0e81669b2e65de53cfd7547c64d1698be970cf06562fe069c2749",
+          "size": 951440
+        },
+        "worker-9": {
+          "url": "https://github.com/tsenta/tsenta-release-assets-linux/releases/download/v3.5.34/worker-9.jsc",
+          "sha256": "cb7a6039761d5cce551e601a87459b08f052224ed566fbb4b3a5d45ce0efbf2f",
+          "size": 1394944
+        }
+      }
+    },
     {
       "version": "3.5.33",
       "minAppVersion": "3.5.0",
